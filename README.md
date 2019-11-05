@@ -49,3 +49,7 @@ Each instance is now accessible on the host at ports 9001 through 9004, proceed 
 - [MinIO Docker Quickstart Guide](https://docs.min.io/docs/minio-docker-quickstart-guide)
 - [Deploy MinIO on Docker Swarm](https://docs.min.io/docs/deploy-minio-on-docker-swarm)
 - [MinIO Erasure Code QuickStart Guide](https://docs.min.io/docs/minio-erasure-code-quickstart-guide)
+
+login:
+
+`http://127.0.0.1:9002/minio/login`
